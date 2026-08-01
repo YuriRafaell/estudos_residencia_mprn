@@ -1,37 +1,13 @@
-Aqui está a curadoria precisa de links para o seu dia de amanhã. O foco total mudou para a infraestrutura e redes/comunicação, que são assuntos com altíssima taxa de recorrência em provas de residência de TI.
-Como o seu tempo é cravado, selecionei vídeos diretos, sem enrolação e que cobrem exatamente a teoria exigida pelas bancas.
-------------------------------
-## ⏱️ BLOCO 1: Arquitetura Cliente/Servidor & HTTP/HTTPS (Total: 50 minutos)
-As bancas adoram decorar números de portas e significados de códigos. Foque em memorizar os padrões.
+⏱️ BLOCO 1: REST API vs. SOAP (Total: 50 minutos)
+Você precisa entender os conceitos arquiteturais e as diferenças estruturais entre as duas tecnologias.
 
-* 
-* Vídeo 1 (Arquitetura, HTTP/HTTPS e Portas) - 00 a 20 min: Assista ao HTTP e HTTPS // Dicionário do Programador do Código Fonte TV. Em menos de 15 minutos eles explicam o modelo cliente-servidor, a diferença de segurança entre os dois protocolos e as portas lógicas padrão (80 para HTTP e 443 para HTTPS). [1] 
-* Vídeo 2 (Verbos HTTP e Códigos de Status) - 20 a 50 min: Assista ao Métodos HTTP e Códigos de Status do canal Otavio Lemos. Este vídeo é crucial para provas: ele detalha os verbos (GET, POST, PUT, DELETE) e explica a lógica das famílias de status (2xx = Sucesso, 4xx = Erro do Cliente, 5xx = Erro do Servidor). [2, 3] 
-* 
+- Vídeo 1 (REST vs SOAP - Teoria Direta) - 00 a 20 min: Assista ao Web Services: SOAP vs REST // Dicionário do Programador do Código Fonte TV. Eles explicam perfeitamente a diferença conceitual: o SOAP como um protocolo rígido baseado em contratos (WSDL) e XML, e o REST como um estilo arquitetural flexível baseado em HTTP e URIs (endpoints).
 
-------------------------------
-## ⏱️ BLOCO 2: Formatos de Dados - JSON, XML e CSV (Total: 40 minutos)
-Questões de concurso costumam colocar blocos de texto e pedir para você identificar qual é o formato, ou perguntar qual deles é mais leve e moderno.
+- Vídeo 2 (Endpoints, Requisições e Respostas) - 20 a 50 min: Assista ao O que é uma API REST / RESTful? do canal Otavio Lemos. Ele demonstra na prática o que é um endpoint (a URL que você acessa), como funciona a estrutura de uma requisição (Headers e Body) e como o servidor devolve a resposta.
 
-* 
-* Vídeo 1 (JSON vs XML) - 00 a 20 min: Assista ao O que é JSON? (E qual a diferença para o XML) do canal Otavio Lemos. O professor faz um comparativo visual perfeito mostrando o mesmo dado estruturado nas duas linguagens, deixando claro por que o JSON substituiu o XML na maioria das APIs modernas.
-* Vídeo 2 (Entendendo o CSV e Resumo) - 20 a 40 min: Para entender o formato baseado em texto separado por vírgulas, assista ao vídeo curto O que é um arquivo CSV? do canal Tecnoblog ou busque o conceito rápido no YouTube para fixar como o CSV estrutura tabelas de forma simples em texto puro.
-* 
+⏱️ BLOCO 2: Questões e Mapas Mentais sobre APIs (Total: 40 minutos)
+Aqui o foco é ver como a teoria se transforma em pontos na sua prova da MPRN.
 
-------------------------------
-## 📝 Resumo de Véspera para fixar na memória (Garante Questões):
+- Vídeo 1 (Resolução de Questões de Concurso) - 00 a 30 min: Assista ao vídeo Questões Comentadas de Engenharia de Software - REST e SOAP do Estratégia Concursos (ou busque por "Questões REST SOAP concurso" focado em professores como Gabriel Pacheco ou Diego Carvalho). Eles mostram as pegadinhas clássicas que as bancas colocam no texto.
 
-* 
-* Portas: HTTP usa a porta 80. HTTPS (criptografado) usa a porta 443. [4, 5, 6] 
-* Verbos: GET (buscar dados), POST (enviar/criar dado novo), PUT (atualizar dado existente), DELETE (deletar dado). [7, 8] 
-* Status Favoritos das Bancas:
-* 200 (OK - Sucesso)
-   * 201 (Created - Objeto criado com sucesso no POST)
-   * 400 (Bad Request - Requisição errada enviada pelo cliente)
-   * 404 (Not Found - URL ou recurso não encontrado)
-   * 500 (Internal Server Error - O servidor quebrou) [9, 10, 11, 12] 
-* Formatos: JSON usa chaves e colchetes { "chave": "valor" }. XML usa tags parecidas com HTML <tag>valor</tag>. CSV usa linhas simples separadas por vírgula ou ponto e vírgula. [13, 14, 15, 16, 17] 
-* 
-
-Bons estudos nos blocos de amanhã! Mantenha os tempos controlados. Quando finalizar o dia, quer que eu prepare a lista do próximo dia do seu cronograma da MPRN? Qual é a próxima matéria?
-
+- Vídeo 2 (Revisão Espaçada / Mapa Mental) - 30 a 40 min: Nos últimos 10 minutos, feche o computador e monte o seu próprio mapa mental em uma folha de papel com base no resumo abaixo.

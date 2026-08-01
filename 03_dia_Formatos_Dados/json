@@ -1,0 +1,46 @@
+[
+    {
+        "time": "Flamengo",
+        "estadio": {
+            "nome": "Maracanã",
+            "publico_recorde": 78838,
+            "capacidade": 78838
+        },
+        "jogadores": [
+            {
+                "nome": "Gabigol",
+                "posicao": "Atacante",
+                "numero": 9,
+                "titular": true
+            },
+            {
+                "nome": "Arrascaeta",
+                "posicao": "Meio-campo",
+                "numero": 14,
+                "titular": false
+            }
+        ]
+    },
+    {
+        "time": "Palmeiras",
+        "estadio": {
+            "nome": "Allianz Parque",
+            "publico_recorde": 43000,
+            "capacidade": 13000
+        },
+        "jogadores": [
+            {
+                "nome": "Dudu",
+                "posicao": "Atacante",
+                "numero": 7,
+                "titular": true
+            },
+            {
+                "nome": "Gustavo Scarpa",
+                "posicao": "Meio-campo",
+                "numero": 14,
+                "titular": false
+            }
+        ]
+    }
+]
