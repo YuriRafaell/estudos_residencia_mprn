@@ -33,7 +33,7 @@
                 "nome": "Dudu",
                 "posicao": "Atacante",
                 "numero": 7,
-                "titular": true
+                "titular": false
             },
             {
                 "nome": "Gustavo Scarpa",
